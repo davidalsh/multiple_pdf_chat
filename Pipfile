@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+streamlit = "*"
+pypdf2 = "*"
+langchain = "*"
+python-dotenv = "*"
+faiss-cpu = "*"
+openai = "*"
+huggingface-hub = "*"
+flake8 = "*"
+flake8-quotes = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
