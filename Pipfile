@@ -13,6 +13,10 @@ openai = "*"
 huggingface-hub = "*"
 flake8 = "*"
 flake8-quotes = "*"
+langchain-community = "*"
+tiktoken = "*"
+langchain-openai = "*"
+setuptools = "*"
 
 [dev-packages]
 
